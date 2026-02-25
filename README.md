@@ -1,7 +1,7 @@
 # Self Circulation (Kiosk) — SLiMS Plugin by Erwan Setyo Budi
 
 Plugin **Self Circulation (Kiosk)** untuk **peminjaman & pengembalian mandiri** melalui halaman OPAC (mode kiosk/fullscreen).
-- Terimakasih kepada Fathul Ilmi yang telah mensponsori penyempurnaan plugin ini.
+- Terimakasih kepada Fathul Ilmi yang telah berkontribusi dalam penyempurnaan plugin ini.
 ---
 
 ## Fitur Utama
