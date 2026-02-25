@@ -34,6 +34,8 @@ Plugin **Self Circulation (Kiosk)** untuk **peminjaman & pengembalian mandiri** 
   - Bisa print **A4** atau **Thermal 80mm**
 - **Branding**:
   - Logo + nama perpustakaan + subname (mengikuti setting SLiMS)
+- **Terintegrasi dengan Plugin Notifikasi WA dan Notifikasi Email**:
+  - Plugin ini dapat terintegrasi dengan plugin notifikasi karena memanfaatkan hook circulation
 
 ---
 
